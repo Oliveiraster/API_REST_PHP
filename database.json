@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "name": "Raphael Oliveira",
+        "email": "raphaeloliveira@email.com",
+        "user_status": 1
+    },
+    {
+        "_id": 2,
+        "name": "Jefferson Raphael",
+        "email": "jeffersonraphael@email.com",
+        "user_status": 0
+    },
+    {
+        "_id": 3,
+        "name": "Raphael Araujo",
+        "email": "raphaelaraujo@email.com",
+        "user_status": 1
+    }
+]
